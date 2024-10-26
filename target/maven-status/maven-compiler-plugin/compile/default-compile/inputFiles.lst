@@ -1,0 +1,6 @@
+/workspaces/fitapp/src/main/java/helenocampos/github/io/fitapp/AppConfig.java
+/workspaces/fitapp/src/main/java/helenocampos/github/io/fitapp/FitappApplication.java
+/workspaces/fitapp/src/main/java/helenocampos/github/io/fitapp/controller/ImcController.java
+/workspaces/fitapp/src/main/java/helenocampos/github/io/fitapp/model/ImcGenderResult.java
+/workspaces/fitapp/src/main/java/helenocampos/github/io/fitapp/model/ImcResult.java
+/workspaces/fitapp/src/main/java/helenocampos/github/io/fitapp/service/GenderService.java
