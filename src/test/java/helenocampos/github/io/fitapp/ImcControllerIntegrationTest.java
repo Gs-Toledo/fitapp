@@ -1,4 +1,5 @@
 package helenocampos.github.io.fitapp;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.mock;
 
@@ -24,7 +25,7 @@ public class ImcControllerIntegrationTest {
     }
 
     @Test
-    public void testImcAbaixoPeso(){
+    public void testImcAbaixoPeso() {
         String result = imcController.proccessImc(18.7, 1).getClassification();
         String expected = "Abaixo do peso";
         assertEquals(expected, result);
